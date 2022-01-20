@@ -1,2 +1,3 @@
-# counter
-a simple counter written in javascript
+# JS Counter
+
+### A simple counter written in javascript
